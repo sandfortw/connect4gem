@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "connect4"
+game = Connect4::Runner.new
+
+game.run
+
